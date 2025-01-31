@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isasans
 - 👀 I’m interested in Data Science, AI, Games
-- 🌱 I’m currently learning Data
+- 🌱 I’m currently a Data Science student
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
