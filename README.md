@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isasans
+- 👋 Hi, I’m Isabela
 - 👀 I’m interested in Data Science, AI, Games
 - 🌱 I’m currently a Data Science student and graduated in information technology
 - 💞️ I’m looking to collaborate on projects that can have a positive impact on people's lives
